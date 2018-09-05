@@ -11,7 +11,7 @@ github_repo: "https://github.com/yimouren/yimouren.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "和世界教授这么多年,你是否光彩依旧,兴致盎然."
+sidebar-about-description: "和世界交手这么多年,你是否光彩依旧,兴致盎然."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
