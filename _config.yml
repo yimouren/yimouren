@@ -1,10 +1,10 @@
 # Site settings
-title: OK Ayi
-SEOTitle: 阿懿的博客 | OK Ayi
+title: Ayi
+SEOTitle: 阿懿的博客 | Ayi
 header-img: img/post-bg-desk.jpg
 email: 837205989@qq.com
 description: "Every thing will be ok."
-keyword: "OK, OK Ayi, 阿懿的博客, yimouren, 懿某人, 前端, iPhone"
+keyword: "Ayi, 阿懿的博客, yimouren, 懿某人, 前端, iPhone"
 url: "http://yimouren.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yimouren/yimouren.github.io.git" # you code repository
@@ -18,11 +18,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     夹生Mi饭
+weibo_username:     2152873500
 # zhihu_username:     qiubaiying
 github_username:    yimouren
-csdn_username:  baiying.qiu.7
-weixin_username: 6666
+#csdn_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
@@ -58,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: yimouren
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: a054e9bdb7764a4e8a8f                            #生成的clientID
+  clientSecret: ed5dff8a9f2561144d18a5de1299c3ed2ef97784    #生成的clientSecret
+  repo: yimuren.github.io    #仓库名称
+  owner: yimouren    #github用户名
+  admin: yimouren
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
