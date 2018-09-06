@@ -110,5 +110,8 @@ friends: [
     },{
       title: "权工的CSDN",
       href: "https://blog.csdn.net/WuchangI"
+    }，{
+      title:"烧饼"
+      href:"https://pandara.xyz"
     }
 ]
