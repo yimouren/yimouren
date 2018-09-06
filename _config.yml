@@ -108,16 +108,16 @@ friends: [
         title: "我的CSDN",
         href: "https://blog.csdn.net/weixin_41041379"
     },{
-      title: "权工的CSDN",
+      title: "权工",
       href: "https://blog.csdn.net/WuchangI"
     },{
-      title:"烧饼",
+      title: "烧饼",
       href:"https://pandara.xyz"
     },{
-      title:"陈某",
-      href:"https://blog.csdn.net/Chen__Mou"
+      title: "陈某",
+      href: "https://blog.csdn.net/Chen__Mou"
     },{
-      title:"涛酱",
-      href:"https://leyisan.github.io/"
+      title: "涛酱",
+      href: "https://leyisan.github.io/"
     }
 ]
