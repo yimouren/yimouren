@@ -8,7 +8,7 @@ header-img:
 catalog: true
 tags:
     - box-sizing：border-box
-    - 防止css污染
+    - div并列显示
 ---
 
 今天根据需求的需要将原本在CSS中写在全局属性的`*{box-sizing:border-box;}`之下的两个div两行显示，而不是并排显示
