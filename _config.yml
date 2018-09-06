@@ -110,8 +110,14 @@ friends: [
     },{
       title: "权工的CSDN",
       href: "https://blog.csdn.net/WuchangI"
-    }，{
+    },{
       title:"烧饼",
       href:"https://pandara.xyz"
+    },{
+      title:"陈某",
+      href:"https://blog.csdn.net/Chen__Mou"
+    },{
+      title:"涛酱",
+      href:"https://leyisan.github.io/"
     }
 ]
