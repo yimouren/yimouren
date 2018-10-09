@@ -26,6 +26,7 @@ tags:
         </el-button>
 </template>
 ```
+![](https://i.imgur.com/PX2LEFZ.png)
 
 ```
   data () {
@@ -107,7 +108,7 @@ Api
 
 * `v-for="(item, index) in BtnArr"`写的原因是，当点击的时候获取到当前item，将item对象传入函数，可以对item对象里的属性进行操作，index是for循环自带的，从0开始，这里是为了后面为了给对应的button添加样式所需
 
-* `<i class="iconfont" v-html="item.name">{{ item.name }}</i>` 因为我使用的是阿里图标库里的图片，但是从代码中看到，我是用图片代替了原本按钮上的文字，而图片的是用代码表示的，但是如果不用`v-html`输出`item.name`的话，循环输出的会变成纯文本，原因是`{%{% %}%}`会将元素当成纯文本输出，v-text将元素当成纯文本输出，v-html将元素当成html标签解析后输出，这样iconfont才能正确渲染
+* `<i class="iconfont" v-html="item.name">{{ item.name }}</i>` 因为我使用的是阿里图标库里的图片，但是从代码中看到，我是用图片代替了原本按钮上的文字，而图片的是用代码表示的，但是如果不用`v-html`输出`item.name`的话，循环输出的会变成纯文本，原因是双花括号会将元素当成纯文本输出，v-text将元素当成纯文本输出，v-html将元素当成html标签解析后输出，这样iconfont才能正确渲染
 
 * 在方法`getfindGroupTree`中有一句`this.packetIndex = index`意思是当点击按钮的时候，将当前被点击按钮的index赋值给packetIndex，这样通过属性`"packetIndex === index ? 'el-button focus' : 'el-button' " size="mini"`能给被点击的按钮加上样式表示被选中，就算鼠标单击其他地方，被选中的颜色也不会消失
 
