@@ -10,6 +10,8 @@ tags:
     - openlayers
 ---
 
+>利用openlayers在加载的地图中根据坐标值落点
+
 ```
     let centerF = new ol.Feature(new ol.geom.Point(center)) // center是一个数组坐标
     let vectorSource = new ol.source.Vector({
