@@ -7,7 +7,7 @@ author:     Ayi
 header-img: 
 catalog: true
 tags:
-    - js用法
+    - JS
 ---
 
 ```
