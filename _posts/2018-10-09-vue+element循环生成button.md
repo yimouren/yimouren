@@ -7,7 +7,7 @@ author:     Ayi
 header-img: 
 catalog: true
 tags:
-    - Vue+Element
+    - Element
 ---
 
 用vue循环生成的button的好处就是可以统一添加样式以及方便与后台进行交互

@@ -7,7 +7,7 @@ author:     Ayi
 header-img: 
 catalog: true
 tags:
-    - Vue+Element
+    - Element
 ---
 
 ## 前言
